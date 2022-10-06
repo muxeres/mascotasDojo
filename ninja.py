@@ -34,7 +34,7 @@ class Ninja:
             print(f"Feeding {self.mascota.name} {food}!")
             self.mascota.comer()
         else:
-            print("Oh no!!! you need more pet food!")
+            print("Oh no!!! más comid!")
         return self
         
     def bañar(self): 
